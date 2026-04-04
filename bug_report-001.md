@@ -4,6 +4,7 @@
 
 Descrição:
 O sistema permite cadastrar produtos com valor negativo, o que viola a regra de negócio.
+evidência disponível em /evidencias
 
 Passos para reproduzir:
 
