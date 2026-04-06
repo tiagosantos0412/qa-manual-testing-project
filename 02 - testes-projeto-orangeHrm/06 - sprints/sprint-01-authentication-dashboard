@@ -1,0 +1,43 @@
+📚 BACKLOG DA SPRINT
+
+Sprint 01 – Authentication & Dashboard  
+Período: 06/04/2026 a 10/04/2026
+
+🔹 US-001 — Login com sucesso
+Como usuário do sistema
+Quero realizar login com credenciais válidas
+Para acessar o sistema
+
+✅ Critérios de Aceitação
+Login com sucesso redireciona para dashboard
+Nome do usuário é exibido (se aplicável)
+Sessão iniciada corretamente
+
+🔹 US-002 — Login inválido
+Como usuário
+Quero ser impedido de acessar com credenciais inválidas
+Para garantir segurança
+
+✅ Critérios de Aceitação
+Mensagem de erro exibida
+Usuário não acessa o sistema
+Campos permanecem preenchidos (ou conforme comportamento esperado)
+
+🔹 US-003 — Validação de campos obrigatórios
+Como usuário
+Quero ser informado quando não preencher os campos
+Para corrigir o erro
+
+✅ Critérios de Aceitação
+Mensagem para campo vazio
+Login não é realizado
+
+🔹 US-004 — Acesso ao Dashboard
+Como usuário autenticado
+Quero visualizar o dashboard
+Para acessar funcionalidades do sistema
+
+✅ Critérios de Aceitação
+Dashboard carrega corretamente
+Elementos principais visíveis
+Sem erro de carregamento
