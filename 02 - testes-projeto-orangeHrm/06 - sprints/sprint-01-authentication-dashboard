@@ -1,53 +1,43 @@
-📚 BACKLOG DA SPRINT
-Sprint 01 – Authentication & Dashboard
-Período: 06/04/2026 a 10/04/2026
+# BACKLOG DA SPRINT
 
-🔹 US-001 — Login com sucesso
-Como usuário do sistema,
-quero realizar login com credenciais válidas
-para acessar o sistema.
+## Sprint 01 – Authentication & Dashboard  
+**Período: 06/04/2026 a 10/04/2026**
 
-✅ Critérios de Aceitação
+## 🔹 US-001 — Login com sucesso
+Como usuário do sistema
+Quero realizar login com credenciais válidas
+Para acessar o sistema
 
-[ ] Login com sucesso redireciona para o dashboard
+## Critérios de Aceitação
+Login com sucesso redireciona para dashboard
+Nome do usuário é exibido (se aplicável)
+Sessão iniciada corretamente
 
-[ ] Nome do usuário é exibido (se aplicável)
+## 🔹 US-002 — Login inválido
+Como usuário
+Quero ser impedido de acessar com credenciais inválidas
+Para garantir segurança
 
-[ ] Sessão é iniciada corretamente
+## Critérios de Aceitação
+Mensagem de erro exibida
+Usuário não acessa o sistema
+Campos permanecem preenchidos (ou conforme comportamento esperado)
 
-🔹 US-002 — Login inválido
-Como usuário,
-quero ser impedido de acessar com credenciais inválidas
-para garantir a segurança.
+## 🔹 US-003 — Validação de campos obrigatórios
+Como usuário
+Quero ser informado quando não preencher os campos
+Para corrigir o erro
 
-✅ Critérios de Aceitação
+## Critérios de Aceitação
+Mensagem para campo vazio
+Login não é realizado
 
-[ ] Mensagem de erro clara é exibida
+## 🔹 US-004 — Acesso ao Dashboard
+Como usuário autenticado
+Quero visualizar o dashboard
+Para acessar funcionalidades do sistema
 
-[ ] Usuário não obtém acesso ao sistema
-
-[ ] Campos permanecem preenchidos (conforme comportamento esperado)
-
-🔹 US-003 — Validação de campos obrigatórios
-Como usuário,
-quero ser informado quando não preencher os campos obrigatórios
-para corrigir o erro.
-
-✅ Critérios de Aceitação
-
-[ ] Exibição de mensagem específica para cada campo vazio
-
-[ ] O login não é processado até o preenchimento total
-
-🔹 US-004 — Acesso ao Dashboard
-Como usuário autenticado,
-quero visualizar o dashboard
-para acessar as funcionalidades do sistema.
-
-✅ Critérios de Aceitação
-
-[ ] Dashboard carrega corretamente após a autenticação
-
-[ ] Elementos principais da interface estão visíveis
-
-[ ] Carregamento sem erros de API ou interface
+## Critérios de Aceitação
+Dashboard carrega corretamente
+Elementos principais visíveis
+Sem erro de carregamento
