@@ -53,3 +53,83 @@ saucedemo-manual-qa/
 │
 └── assets/
     └── screenshots/
+
+Documentação do Projeto
+Regras de Negócio
+
+Documentação das regras funcionais identificadas durante a análise da aplicação.
+
+Módulo	Documento
+Autenticação	authentication-rules.md
+Inventário	inventory-rules.md
+Carrinho	cart-rules.md
+Checkout	checkout-rules.md
+Finalização	finish-rules.md
+Cenários de Teste
+
+Os cenários foram escritos utilizando técnicas de QA Manual com foco em:
+
+Fluxos positivos
+Fluxos negativos
+Validação de regras
+Cobertura funcional
+Casos extremos
+Casos de Teste
+
+Os casos de teste contêm:
+
+ID do teste
+Pré-condições
+Passos de execução
+Resultado esperado
+Resultado obtido
+Status da execução
+Bug Reports
+
+Registro de defeitos encontrados durante as execuções de teste contendo:
+
+Severidade
+Prioridade
+Passos para reprodução
+Resultado esperado
+Resultado atual
+Evidências
+Evidências
+
+Pasta destinada ao armazenamento de:
+
+Screenshots
+Logs
+Evidências de execução
+Comprovação de bugs
+Ferramentas Utilizadas
+Documentação Markdown
+Git
+GitHub
+Navegadores Web
+SauceDemo
+Habilidades Demonstradas
+QA Manual
+Análise de Requisitos
+Escrita de Testes
+Validação Funcional
+Testes Exploratórios
+Reporte de Bugs
+Organização de Evidências
+Versionamento com Git/GitHub
+Autor
+Tiago Felipe dos Santos
+
+QA Engineer Jr focado em:
+
+Testes Manuais
+Automação de Testes
+Cypress
+Selenium
+JavaScript
+Python
+APIs
+SQL
+Contato
+LinkedIn: https://www.linkedin.com/in/tiago-felipe-dos-santos-55938b27b/ 
+GitHub: https://github.com/tiagosantos0412/
