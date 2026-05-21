@@ -19,7 +19,7 @@ Este repositório tem como objetivo demonstrar habilidades em:
 
 # Aplicação Utilizada
 
-- Sistema: :contentReference[oaicite:0]{index=0}
+- Sistema: https://www.saucedemo.com/
 - Tipo: E-commerce
 - Plataforma utilizada para estudos e prática de testes manuais.
 
