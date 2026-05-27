@@ -67,18 +67,8 @@ Plataforma desenvolvida para simular um ambiente real de gerenciamento de qualid
 ```text
 projects/
 ├── saucedemo/
-│   ├── business-rules/
-│   ├── acceptance-criteria/
-│   ├── test-cases/
-│   ├── bug-reports/
-│   └── evidences/
-│
+
 ├── qa-platform/
-│   ├── business-rules/
-│   ├── test-cases/
-│   ├── bug-reports/
-│   ├── kanban/
-│   └── evidences/
 ```
 
 ---
